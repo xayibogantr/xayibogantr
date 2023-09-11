@@ -1,8 +1,7 @@
 <h1 align="center">do you searching me? :lips:</h1>
 
 
-### Spotify playing 🎧
-[<img src="" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/xayibogantr)
+
 
 
 
