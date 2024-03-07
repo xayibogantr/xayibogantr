@@ -1,10 +1,10 @@
-
-A
-A
-A
-A
-A
-
+{
+const admin = {
+  announce: (message) => {
+    console.log(`Duyuru: ${message}`);
+  }
+  };
+};
 
 
 
