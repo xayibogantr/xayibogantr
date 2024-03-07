@@ -1,15 +1,3 @@
-enum true_math
-{
-const admin = {
-  announce: (message) => {
-    console.log(`muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenm ${message}`);
-  }
-  };
-};
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
