@@ -1,8 +1,8 @@
-<h1 align="center">const admin = {
+const admin = {
   announce: (message) => {
-    console.log(`muvaffakiyetsizleştiricileştiriveremeyebileceklerimizden: ${message}`);
+    console.log(`muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenm ${message}`);
   }
-}; :lips:</h1>
+};
 
 
 
