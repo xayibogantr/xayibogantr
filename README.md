@@ -1,8 +1,10 @@
-const admin = {
-announce: (message) => {
-console.log(`muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenm ${message}`);
-}
-};
+
+A
+A
+A
+A
+A
+
 
 
 
