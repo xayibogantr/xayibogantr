@@ -1,7 +1,8 @@
+enum true_math
 {
 const admin = {
   announce: (message) => {
-    console.log(`Duyuru: ${message}`);
+    console.log(`muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenm ${message}`);
   }
   };
 };
