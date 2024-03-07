@@ -1,7 +1,7 @@
 const admin = {
-  announce: (message) => {
-    console.log(`muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenm ${message}`);
-  }
+announce: (message) => {
+console.log(`muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenm ${message}`);
+}
 };
 
 
